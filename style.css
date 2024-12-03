@@ -1,0 +1,19 @@
+.container{
+    max-width: 800px;
+}
+
+body{
+    height:2000px;
+}
+
+h1{
+    color:black;
+}
+ 
+p{
+    color:black;
+}
+
+.about{
+    justify-content:baseline;
+}
